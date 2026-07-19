@@ -13,4 +13,4 @@ This repository contains the data science solutions, risk-monitoring framework, 
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Kalana-methsara/ITS2122_Credit_Risk_Analytics.git](https://github.com/Kalana-methsara/ITS2122_Credit_Risk_Analytics.git)
+   git clone https://github.com/Kalana-methsara/ITS2122_Credit_Risk_Analytics.git
