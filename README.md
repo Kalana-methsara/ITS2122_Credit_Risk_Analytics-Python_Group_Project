@@ -1,6 +1,6 @@
 ## Phase 2: Exploratory Data Analysis (EDA)
 
-In this phase, we thoroughly explore the cleaned credit risk dataset to uncover underlying trends, behavioral patterns, and correlations between customer financial metrics and the target risk variable (`default_next_month`).
+In this phase, we thoroughly explore the cleaned credit risk dataset to uncover underlying trends, behavioral patterns, and correlations between customer financial metrics and the target risk variable.
 
 ### 📊 Key Analysis Steps & Insights:
 
