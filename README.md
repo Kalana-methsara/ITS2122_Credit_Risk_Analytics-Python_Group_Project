@@ -1,10 +1,10 @@
-# NovaX — Credit Card Default Risk Analysis
+# CyberCobra — Credit Card Default Risk Analysis
 
-NovaX analyzes customer financial data to identify patterns of loan default risk using data science techniques. The project helps financial institutions make better loan-approval decisions by predicting which customers are likely to default, using the UCI **"Default of Credit Card Clients"** dataset (30,000 rows × 25 columns).
+CyberCobra analyzes customer financial data to identify patterns of loan default risk using data science techniques. The project helps financial institutions make better loan-approval decisions by predicting which customers are likely to default, using the UCI **"Default of Credit Card Clients"** dataset (30,000 rows × 25 columns).
 
 ## Project Pipeline
 
-The notebook (`NovaX.ipynb`) is organized into sequential phases, each handled by a different team member.
+The notebook (`Credit_Risk_Analytics.ipynb`) is organized into sequential phases, each handled by a different team member.
 
 ### 1. Data Engineering (Member 1)
 - Loads the raw dataset and validates its shape (handles the known extra header row in the source CSV)
@@ -89,7 +89,7 @@ Running the notebook will generate `cleaned_credit_data.csv` and `data_dictionar
 
 ## Usage
 
-1. Open `NovaX.ipynb` in Jupyter Notebook / JupyterLab / VS Code.
+1. Open `Credit_Risk_Analytics.ipynb` in Jupyter Notebook / JupyterLab / VS Code.
 2. Run all cells in order — the Data Engineering section must run first to produce `cleaned_credit_data.csv`.
 3. Exported chart images will appear in `report_figures/`.
 
